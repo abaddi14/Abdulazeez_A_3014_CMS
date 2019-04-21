@@ -1,0 +1,196 @@
+#headerNav {
+	background-color: black;
+	padding-top: 30px;
+	padding-bottom: 70px;
+}
+
+#headerNav a {
+	color: white;
+	text-decoration: none;
+	font-size: 22px;
+}
+
+#headerNav a:hover {
+	color: #ABB2B9;
+
+}
+
+#headerNav li {
+	display: inline;
+	padding: 30px;
+	margin-left: 34px;
+}
+
+#logo {
+	max-width: 20%;
+	margin-left: 550px;
+
+}
+
+form {
+	float: right;
+	margin-right: 120px;
+}
+
+#searchbar {
+	border-radius: 20px;
+	font-size: 20px;
+
+}
+
+#button {
+	background-color: #DC0000;
+	color: white;
+	border: none;
+	padding: 10px;
+	font-size: 15px;
+	border-radius: 20px;
+	padding-left: 20px;
+	padding-right: 20px;
+	margin-left: 10px;
+}
+
+#button:hover {
+	background-color: darkgray;
+}
+
+#productDiv {
+	border: 3px solid #b4b4b4;
+	border-radius: 20px;
+	width: 400px;
+	float: left;
+	margin-top: 30px;
+	margin-right: 30px;
+	background-color: white;
+}
+
+#productDiv img {
+	max-width: 300px;
+	margin-left: 30px;
+	margin-top: 20px;
+}
+
+#productDiv h2 {
+	font-size: 20px;
+	text-align: center;
+	padding: 10px;
+}
+
+body {
+	margin-bottom: 20px;
+	background-color: #E1E1E1;
+}
+
+#productDiv p {
+	font-size: 25px;
+	float: right;
+	font-weight: bold;
+	margin-right: 40px;
+	color: red;
+}
+
+#mainDiv {
+	margin-left: 70px;
+	margin-top: 30px;
+}
+
+#productTitle {
+	font-size: 25px;
+	color: black;
+}
+
+#productTitle a {
+	text-decoration: none;
+	color: black;
+}
+
+#productTitle a:hover {
+	text-decoration: none;
+	color: gray;
+}
+
+.detailsInfo {
+
+	max-width: 80%;
+	margin-left: 80px;
+	padding: 20px;
+	margin-top: 30px;
+
+}
+
+#detailsLogo {
+	max-width: 200px;
+}
+
+#detailsTitle {
+	font-size: 28px;
+/*	float: left;*/
+	margin-top: 10px;
+}
+
+#detailsProductImage {
+	max-width: 50%;
+	float: left;
+	border-radius: 20px;
+	border: 20px solid white;
+	margin-top: 30px;
+	margin-left: 30px;
+}
+
+#rightSide {
+	margin-top: 30px;
+	margin-left: 750px;
+	background-color: white;
+	padding: 20px;
+	border-radius: 20px;
+	width: 400px;
+}
+
+#price {
+font-size: 45px;
+text-align: center;
+}
+
+#size {
+	font-size: 24px;
+
+}
+
+#color {
+	font-size: 24px;
+
+}
+
+#discount {
+	font-size: 24px;
+
+}
+
+#productDesc{
+	font-size: 20px;
+	width: 800px;
+	text-align: center;
+	margin-left: 200px;
+	margin-top: 80px;
+	background-color: white;
+	border-radius: 20px;
+	padding: 50px;
+
+}
+
+#detailsSpan{
+	color: red;
+	margin-right: 15px;
+}
+
+
+}
+
+/*footer p
+{
+	padding-top: 30px;
+	padding-bottom: 70px;
+	float: left;
+	font-size: 20px;
+	color: black;
+}
